@@ -1,0 +1,1 @@
+06/11/2022 01:19:28: Server - Cant start the game until everyone in the room is using the same emulators as the GAMEOWNER!
