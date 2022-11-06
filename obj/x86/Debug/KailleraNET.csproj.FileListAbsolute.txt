@@ -23,3 +23,37 @@ C:\Users\David\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplicat
 C:\Users\David\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
 C:\Users\David\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe.manifest
 C:\Users\David\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.application
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\KailleraNET.csproj.AssemblyReference.cache
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\MainWindow.baml
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\Windows\ServerListWindow.baml
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\Windows\GamesWindow.baml
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\App.baml
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\Windows\ChatWindow.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\Windows\ServerListWindow.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\Windows\GamesWindow.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\Windows\UsersWindow.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\App.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\KailleraNET_MarkupCompile.cache
+C:\Users\Abner\Source\Repos\KailleraNet\obj\x86\Debug\KailleraNET_MarkupCompile.lref
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraIcon.g.cs
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraIcon.baml
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\Windows\ChatWindow.baml
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\Windows\UsersWindow.baml
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.g.resources
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.Properties.Resources.resources
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.csproj.GenerateResource.cache
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.csproj.CoreCompileInputs.cache
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.exe
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.pdb
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\log4net.config
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\KailleraNET.exe.config
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\KailleraNET.exe
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\KailleraNET.pdb
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\log4net.dll
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\Nini.dll
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Abner\source\repos\KailleraNet\bin\Debug\log4net.xml
+C:\Users\Abner\source\repos\KailleraNet\obj\x86\Debug\KailleraNET.csproj.CopyComplete
