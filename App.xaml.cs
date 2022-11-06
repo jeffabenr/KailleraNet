@@ -21,13 +21,13 @@ namespace KailleraNET
         protected override void  OnStartup(StartupEventArgs e)
         {
 
-            TaskbarIcon tb = (TaskbarIcon)FindResource("KailleraNotifyIcon");
+           // TaskbarIcon tb = (TaskbarIcon)FindResource("KailleraNotifyIcon");
 
             //Starts the tray notification manager with the default Kaillera Icon
-            k = KailleraTrayManager.Instance;
-            k.setIcon(tb);
+          //  k = KailleraTrayManager.Instance;
+           // k.setIcon(tb);
 
- 	        base.OnStartup(e);
+ 	      //  base.OnStartup(e);
         }
     }
 }

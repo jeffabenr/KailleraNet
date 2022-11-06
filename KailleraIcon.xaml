@@ -4,7 +4,7 @@
                     xmlns:local="clr-namespace:KailleraNET"
     xmlns:tb="http://www.hardcodet.net/taskbar">
     
-    
+    <!--
     <tb:TaskbarIcon x:Key="KailleraNotifyIcon"
                     IconSource="kaillera.ico"
                     ToolTipText="KailleraNET 0.3"
@@ -33,5 +33,5 @@
             </ContextMenu>
         </tb:TaskbarIcon.ContextMenu>
 
-    </tb:TaskbarIcon>    
+    </tb:TaskbarIcon>    -->
 </ResourceDictionary>
